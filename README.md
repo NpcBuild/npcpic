@@ -1,0 +1,2 @@
+# npcpic
+pic for npc
